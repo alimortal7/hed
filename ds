@@ -107,8 +107,7 @@ dist
 .DS_Store
 
 # python
-pycache/
-
+pycac
 
 
 
