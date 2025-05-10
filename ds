@@ -80,8 +80,7 @@ ack'
 dist
 
 # Gatsby files
-.cache/
-
+.
 
 
 
