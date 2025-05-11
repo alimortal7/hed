@@ -78,9 +78,7 @@ ack'
 
 # Nuxt.js build / generate outp
 dist
-
-# Gatsby files
-.
+e
 
 
 
