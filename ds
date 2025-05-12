@@ -78,7 +78,6 @@ ack'
 
 # Nuxt.js build / generate outp
 dist
-e
 
 
 
