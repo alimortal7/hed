@@ -77,9 +77,6 @@ ack'
 .next
 
 # Nuxt.js build / generate outp
-dist
-
-
 
 
 
