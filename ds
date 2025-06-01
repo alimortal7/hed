@@ -65,7 +65,7 @@ ack'
 *.tgz
 
 # Yarn Integrity file
-.yarn-integrity
+
 
 
 
